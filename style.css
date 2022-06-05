@@ -22,4 +22,30 @@ p{
 .price{
     color: deeppink;
 }
-
+.cat1{
+    background-image: linear-gradient(rgb(245, 213, 32),rgb(237, 252, 29));
+    border-radius: 10px;
+    
+}
+.cat2{
+    background-color: fuchsia;
+    border-radius: 10px;
+}
+.cat3{
+    background-color: blue;
+    border-radius: 10px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+}
+.categories h1{
+    color:  white;
+}
+.categories img {
+    width: 100px;
+    
+}
+.card{
+    bottom: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
