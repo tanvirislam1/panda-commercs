@@ -46,6 +46,23 @@ p{
     
 }
 .card{
+    border-radius: 10px;
     bottom: none;
     box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#Subscribe{
+    height: 300PX;
+    
+}
+#Subscribe h6{
+    color: gray;
+
+}
+footer{
+    text-align: center;
+    font-size: 10px;
 }
